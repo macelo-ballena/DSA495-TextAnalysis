@@ -79,4 +79,4 @@ Possible evaluation: precision, recall, and F1 per category on a hand-labeled te
 
 ## AI-Use Statement
 
-I used Claude to help me find datasets that could align my project topic. Before consulting that, I had decided that I wanted a project connected to appliance retail and customer feedback. I will confirm the dataset links, size, and licensing terms directly on the dataset’s project pages.
+I used Claude to help me find datasets that could align to my project topic. Before consulting that, I had decided that I wanted a project connected to appliance retail and customer feedback. I will confirm the dataset links, size, and licensing terms directly on the dataset’s project pages.
