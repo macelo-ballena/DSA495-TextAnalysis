@@ -5,7 +5,7 @@
 > **DSA 495 Topic Brief**
 > 
 
-## Team Members
+## Sole Contributor
 
 - Marcelo Ballena
 
